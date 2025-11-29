@@ -1,5 +1,7 @@
 # Virtual Window Sensor for Home Assistant
 
+[🇩🇪 Deutsche Version](README_DE.md) | 🇬🇧 English Version
+
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
 [![GitHub Release](https://img.shields.io/github/release/tgast/home-assistant-virtual-window-sensor.svg)](https://github.com/tgast/home-assistant-virtual-window-sensor/releases)
 [![License](https://img.shields.io/github/license/tgast/home-assistant-virtual-window-sensor.svg)](LICENSE)
