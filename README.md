@@ -3,8 +3,8 @@
 [🇩🇪 Deutsche Version](README_DE.md) | 🇬🇧 English Version
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
-[![GitHub Release](https://img.shields.io/github/release/tgast/home-assistant-virtual-window-sensor.svg)](https://github.com/tgast/home-assistant-virtual-window-sensor/releases)
-[![License](https://img.shields.io/github/license/tgast/home-assistant-virtual-window-sensor.svg)](LICENSE)
+[![GitHub Release](https://img.shields.io/github/release/tgast/ha-virtual-window-sensor.svg)](https://github.com/tgast/ha-virtual-window-sensor/releases)
+[![License](https://img.shields.io/github/license/tgast/ha-virtual-window-sensor.svg)](LICENSE)
 
 A Home Assistant custom integration that creates virtual window sensors based on temperature changes. Perfect for automatic heating control in rooms without physical window sensors.
 
@@ -57,7 +57,7 @@ Threshold: 0.3°C
 3. Click the **three dots** (⋮) in the top right
 4. Select **Custom repositories**
 5. Add:
-   - **Repository**: `https://github.com/tgast/home-assistant-virtual-window-sensor`
+   - **Repository**: `https://github.com/tgast/ha-virtual-window-sensor`
    - **Category**: `Integration`
 6. Click **Add**
 7. Search for "Virtual Window Sensor" and click **Download**
@@ -65,7 +65,7 @@ Threshold: 0.3°C
 
 ### Manual Installation
 
-1. Download the [latest release](https://github.com/tgast/home-assistant-virtual-window-sensor/releases)
+1. Download the [latest release](https://github.com/tgast/ha-virtual-window-sensor/releases)
 2. Extract the archive
 3. Copy the `custom_components/virtual_window_sensor` folder to your Home Assistant `config/custom_components/` directory
 4. Restart Home Assistant
@@ -301,8 +301,8 @@ With each temperature change:
 
 Contributions are welcome! 
 
-- 🐛 **Bug Reports**: [Issues](https://github.com/tgast/home-assistant-virtual-window-sensor/issues)
-- 💡 **Feature Requests**: [Issues](https://github.com/tgast/home-assistant-virtual-window-sensor/issues)
+- 🐛 **Bug Reports**: [Issues](https://github.com/tgast/ha-virtual-window-sensor/issues)
+- 💡 **Feature Requests**: [Issues](https://github.com/tgast/ha-virtual-window-sensor/issues)
 - 🔧 **Pull Requests**: Welcome! See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## 📝 Changelog
@@ -325,8 +325,8 @@ MIT License - see [LICENSE](LICENSE)
 
 ## 💬 Support & Community
 
-- **Questions?** → [GitHub Discussions](https://github.com/tgast/home-assistant-virtual-window-sensor/discussions)
-- **Issues?** → [GitHub Issues](https://github.com/tgast/home-assistant-virtual-window-sensor/issues)
+- **Questions?** → [GitHub Discussions](https://github.com/tgast/ha-virtual-window-sensor/discussions)
+- **Issues?** → [GitHub Issues](https://github.com/tgast/ha-virtual-window-sensor/issues)
 - **Home Assistant Forum**: [Community Thread](https://community.home-assistant.io/)
 
 ---
